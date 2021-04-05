@@ -1,4 +1,4 @@
-package com.htdp1.empmanage.title;
+package com.htdp1.empmanage.employee;
 
 import java.io.Serializable;
 import java.util.Date;
